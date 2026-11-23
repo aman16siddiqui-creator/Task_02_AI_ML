@@ -59,4 +59,4 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Google Colab
 
 ## Author
 
-**Manna** – Software Engineering student, SZABIST
+**Aman Siddiqui** 
